@@ -42,8 +42,8 @@ export default function Signin() {
                     size={GoogleSigninButton.Size.Wide}
                     color={GoogleSigninButton.Color.Dark}
                     onPress={this._signIn}
-                    disabled={this.state.isSigninInProgress} />
-            </View> */}
+                    disabled={this.state.isSigninInProgress} />*/}
+            </View> 
         </View>
     );
 }
